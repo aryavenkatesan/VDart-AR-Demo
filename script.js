@@ -5,16 +5,12 @@ const models = {
     iosSrc: "modles/VDart 3D Logo 19.usdz",
   },
   model2: {
-    src: "modles/Model2.glb",
-    iosSrc: "modles/Model2.usdz",
+    src: "modles/VDartDigital3Dmodel3.glb",
+    iosSrc: "modles/VDart Digital 3D Model4.usdz",
   },
   model3: {
-    src: "modles/Model3.glb",
-    iosSrc: "modles/Model3.usdz",
-  },
-  model4: {
-    src: "modles/Model4.glb",
-    iosSrc: "modles/Model4.usdz",
+    src: "modles/TrustPeople3DModel3.glb",
+    iosSrc: "modles/Trust People 3D Model 4.usdz",
   },
 };
 
